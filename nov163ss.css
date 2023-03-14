@@ -1,0 +1,21 @@
+﻿table		{border-external:FFFF66}
+
+unordered list	{list-style-type:square;}
+table {
+	border-style: solid;
+	border-color:#ffff66;
+	padding: 10px;
+border-width:4px;	
+list-style-type: square;
+	border-collapse: collapse;
+	border-spacing: 10px;
+	
+}
+td {
+	border: 2px solid #ff66cc;
+	padding: 10px;
+	border-width:2px;
+	
+}
+
+*/ Hett Vaya Y10S */
